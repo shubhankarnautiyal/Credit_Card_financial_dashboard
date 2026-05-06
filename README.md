@@ -170,3 +170,9 @@ Cloud database integration
 Shubhankar Nautiyal
 
 Snapshot of this project:
+
+## Transaction Dashboard
+![Dashboard](https://raw.githubusercontent.com/shubhankarnautiyal/Credit_Card_financial_dashboard/main/CreditCardSnapshot.png)
+
+## Customer Dashboard
+![Dashboard](https://raw.githubusercontent.com/shubhankarnautiyal/Credit_Card_financial_dashboard/main/CreditCardSnapshot2.png)
